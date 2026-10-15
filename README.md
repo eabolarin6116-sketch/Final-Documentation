@@ -1,4 +1,6 @@
-# Final-DocumentationMIT 8103 Advanced Database Systems — Final Portfolio Summary
+# Final-Documentation
+
+MIT 8103 Advanced Database Systems — Final Portfolio Summary
 Academic Session: 2026/2027
 Semester: First Semester
 Case Study: Bank/Fintech Platform
