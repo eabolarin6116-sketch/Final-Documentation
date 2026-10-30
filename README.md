@@ -5,7 +5,7 @@ Academic Session: 2026/2027
 Semester: First Semester
 Case Study: Bank/Fintech Platform
 Student Name:  Abolarin  Emmanuel  Temitope
-GitHub Repository: [Insert your repository URL]
+GitHub Repository: https://github.com/eabolarin6116-sketch/mit-8103-advanced-database-portfolio.git
 
 1. Introduction and Project Overview
 
@@ -45,7 +45,7 @@ The GitHub repository contains the five portfolio folders and a main README. Eac
 
 The evidence includes the ER diagram, schema and constraints documentation, SQL query and execution-plan screenshots, transaction and isolation test results, MongoDB documents and query results, and cloud deployment documentation.
 
-Repository URL: [Insert your full GitHub repository URL]
+Repository URL: https://github.com/eabolarin6116-sketch/mit-8103-advanced-database-portfolio.git
 
 
 4. Individual Reflection
